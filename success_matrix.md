@@ -94,7 +94,4 @@ To measure the success and effectiveness of the test automation framework, the f
 By tracking these **success metrics**, this automation framework ensures **high reliability, reduced manual effort, and accelerated release cycles**, leading to efficient and scalable software quality assurance.
 
 ---
-**Author:** [Your Name]  
-**Version:** 1.0  
-**License:** MIT
 
