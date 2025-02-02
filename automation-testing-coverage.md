@@ -146,18 +146,5 @@ jobs:
 
 ---
 
-## **📢 Contributing**
-Want to contribute? Feel free to fork the repo, raise PRs, or submit issues!
-
-📩 **For questions, reach out to [your_email@example.com]**
-
----
-
-## **📜 License**
-This project is licensed under the **MIT License**.
-
----
-
-### **⭐ Follow & Star This Repository for More Updates! ⭐**
 
 ---
