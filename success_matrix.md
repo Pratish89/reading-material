@@ -66,30 +66,6 @@ To measure the success and effectiveness of the test automation framework, the f
 - **Real-Time Dashboards:** Using **Grafana, Kibana** for monitoring test trends.
 - **CI/CD Logs & Notifications:** Automated failure alerts via Slack & Email.
 
-## Patch Contribution Guide
-### How to Submit a Patch
-1. **Fork the repository** to your GitHub account.
-2. **Clone your fork** to your local machine:
-   ```sh
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
-   ```
-3. **Create a new branch** for your patch:
-   ```sh
-   git checkout -b patch-branch
-   ```
-4. **Make necessary changes** to the codebase.
-5. **Commit your changes** with a meaningful message:
-   ```sh
-   git add .
-   git commit -m "Fixed issue XYZ and improved test stability"
-   ```
-6. **Push changes to your fork**:
-   ```sh
-   git push origin patch-branch
-   ```
-7. **Create a Pull Request (PR)** from your GitHub fork.
-
 ## Conclusion
 By tracking these **success metrics**, this automation framework ensures **high reliability, reduced manual effort, and accelerated release cycles**, leading to efficient and scalable software quality assurance.
 
