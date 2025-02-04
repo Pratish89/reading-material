@@ -1,7 +1,7 @@
 # **Scalable Test Automation Framework - UI, API & Backend Services 🚀**
 
 
-By implementing this framework, we achieved **75-80% automation coverage**, reduced execution time by **50%**, and integrated seamlessly into **CI/CD pipelines**.
+By implementing this framework, we achieved **90-95% automation coverage**, reduced execution time by **50%**, and integrated seamlessly into **CI/CD pipelines**.
 
 ---
 
@@ -10,7 +10,7 @@ The success of the automation framework is measured using **the following key me
 
 | **Metric** | **Formula** | **Target Goal** |
 |------------|------------|----------------|
-| **Test Automation Coverage (%)** | `(Automated Tests / Total Tests) × 100` | **75-80%** |
+| **Test Automation Coverage (%)** | `(Automated Tests / Total Tests) × 100` | **90% UI-95% API** |
 | **Test Execution Time Reduction (%)** | `(Manual Time - Automated Time) / Manual Time × 100` | **50% Faster Execution** |
 | **Defect Detection Rate (%)** | `(Automation Bugs Found / Total Bugs) × 100` | **60-70% Defects Found by Automation** |
 | **Flaky Test Rate (%)** | `(Unstable Tests / Total Automated Tests) × 100` | **< 5%** |
