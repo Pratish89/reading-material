@@ -16,7 +16,7 @@ The success of the automation framework is measured using **the following key me
 | **Flaky Test Rate (%)** | `(Unstable Tests / Total Automated Tests) × 100` | **< 5%** |
 | **Regression Test Efficiency (%)** | `(Automated Regression Tests / Total Regression Tests) × 100` | **90%** |
 | **CI/CD Stability (%)** | `(Successful Automated Runs / Total CI/CD Runs) × 100` | **> 95% Test Pass Rate** |
-| **Automation ROI (%)** | `(Manual Effort Saved - Automation Effort) / Automation Effort × 100` | **50% Cost Savings** |
+| **Automation ROI (%)** | `(Manual Effort Saved - Automation Effort) / Automation Effort × 100` | **70% Cost Savings** |
 
 ---
 
