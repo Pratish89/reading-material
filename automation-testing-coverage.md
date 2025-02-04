@@ -11,7 +11,7 @@ The success of the automation framework is measured using **the following key me
 | **Metric** | **Formula** | **Target Goal** |
 |------------|------------|----------------|
 | **Test Automation Coverage (%)** | `(Automated Tests / Total Tests) × 100` | **90% UI-95% API** |
-| **Test Execution Time Reduction (%)** | `(Manual Time - Automated Time) / Manual Time × 100` | **50% Faster Execution** |
+| **Test Execution Time Reduction (%)** | `(Manual Time - Automated Time) / Manual Time × 100` | **70% Faster Execution For UI** |
 | **Defect Detection Rate (%)** | `(Automation Bugs Found / Total Bugs) × 100` | **60-70% Defects Found by Automation** |
 | **Flaky Test Rate (%)** | `(Unstable Tests / Total Automated Tests) × 100` | **< 5%** |
 | **Regression Test Efficiency (%)** | `(Automated Regression Tests / Total Regression Tests) × 100` | **90%** |
